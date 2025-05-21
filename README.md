@@ -8,6 +8,11 @@ Uses the following libraries and models:
 - Libraries: Tensorflow, Keras, spaCy, NLTK, Word2Vec, Pandas, MPL, Streamlit, HuggingFace, gensim, imblearn
 - RNNs, Bi-LSTM
 
+Clone the repo and run the app using:
+```bash
+streamlit run app.py
+```
+
 **Data Collection**
 The dataset consists of HTML documents sorted into five folders—Balance Sheets, Cash Flow, Income Statement, Notes, and Others—each corresponding to a financial document category. You can download the full dataset here:
  [Dataset Link](https://drive.google.com/file/d/1yj_ucy-VuX7fjKAQsR23ViTc-odb-eD-/view)
